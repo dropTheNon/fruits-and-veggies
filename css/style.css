@@ -1,1 +1,17 @@
-/* file for your css */
+.arrow {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.centered {
+  text-align: center;
+}
+
+/*.rightArrow {
+  margin-right: 10px;
+}*/
+
+.foodName {
+  margin-left: 10px;
+  margin-right: 10px;
+}
